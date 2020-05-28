@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bunq
+Comment=Bunq Desktop
+GenericName=Bunq Desktop Client for Linux
+Exec=top.bunqdesktop.Bunq
+Icon=top.bunqdesktop.Bunq
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Office;
